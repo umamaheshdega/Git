@@ -7,5 +7,5 @@
 * food stall
 * petrol
 ## Ghee Dosa
-* Ghee
+
 

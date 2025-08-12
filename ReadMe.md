@@ -9,6 +9,9 @@
 ## Ghee Dosa
 * dosa batter
 * oil
+<<<<<<< HEAD
 
+=======
+>>>>>>> parent of f16c531 (ghee)
 
 
